@@ -64,7 +64,7 @@ def SEMI(input_tensor,target_tensor,window_size,shift,step):
 
 
 # example implementation with a window size of 50, and a shift of 100 (t-49 to t+50):
-#loss = SEMI(outputs, trainyT_seg,50,100)
+#loss = SEMI(outputs, trainyT_seg,50,100,1)
 
 
 
